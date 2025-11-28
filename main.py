@@ -8,7 +8,7 @@ from handlers import register_handlers
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота
-API_TOKEN = '7507292737:AAFaPrHceSq27qs_61yD_pCv5lYxNxHVnq4'
+API_TOKEN = 'Ваш токен'
 
 async def main():
     # Инициализация бота и диспетчера
