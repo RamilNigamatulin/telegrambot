@@ -1,0 +1,4 @@
+python==3.13.3
+aiogram==3.22.0
+nest-asyncio==1.6.0
+aiosqlite==0.21.0
